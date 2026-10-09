@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.IntroClassAccess/01.IntroClassAccess.vcxproj" />
+  <Project Path="02.MethodsOutside/02.MethodsOutside.vcxproj" />
+  <Project Path="03.Accessors/03.Accessors.vcxproj" />
+  <Project Path="04.ConstructorDestructor/04.ConstructorDestructor.vcxproj" />
+</Solution>
